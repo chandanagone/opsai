@@ -1,0 +1,13 @@
+User_ID,Full_Name,Email,Role,Facility,Department,Phone_Number,Status,Last_Login,Created_Date
+USR-001,Admin Administrator,admin@facilityops.com,Administrator,North Distribution Center,HR,+91-9114682844,Active,2026-07-27,2025-10-12
+USR-002,Facility Manager,manager@facilityops.com,Facility Manager,Corporate HQ - Tower A,Operations,+91-9226128312,Active,2026-07-25,2025-01-05
+USR-003,John Mathews,john.mathews@facilityops.com,Maintenance Manager,Riverside Campus,Security,+91-9646397165,Active,2026-07-16,2025-01-21
+USR-004,Priya Nair,priya.nair@facilityops.com,Technician,North Distribution Center,IT,+91-9590470737,Active,2026-07-17,2025-11-16
+USR-005,David Chen,david.chen@facilityops.com,Security Officer,Riverside Campus,HR,+91-9901325519,Inactive,2026-07-02,2026-03-20
+USR-006,Sara Ali,sara.ali@facilityops.com,Analyst,North Distribution Center,Operations,+91-9464938258,Inactive,2026-07-13,2025-08-30
+USR-007,Michael Rodriguez,michael.rodriguez@facilityops.com,Viewer,Corporate HQ - Tower A,Security,+91-9879591310,Active,2026-07-11,2024-10-14
+USR-008,Fatima Khan,fatima.khan@facilityops.com,Administrator,Riverside Campus,Operations,+91-9259553112,Active,2026-07-14,2025-06-11
+USR-009,Karan Patel,karan.patel@facilityops.com,Facility Manager,North Distribution Center,HR,+91-9919128302,Active,2026-07-15,2025-07-05
+USR-010,Meera Iyer,meera.iyer@facilityops.com,Maintenance Manager,Corporate HQ - Tower A,Finance,+91-9356415500,Active,2026-07-22,2024-03-27
+USR-011,Alex Brown,alex.brown@facilityops.com,Technician,North Distribution Center,Facilities,+91-9441639230,Active,2026-07-07,2024-02-20
+USR-012,Nina Fischer,nina.fischer@facilityops.com,Security Officer,North Distribution Center,Operations,+91-9812630453,Active,2026-07-09,2025-12-26

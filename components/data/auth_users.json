@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "users": {
+    "admin": {
+      "username": "admin",
+      "email": "admin@facilityops.com",
+      "full_name": "Admin Administrator",
+      "role": "Administrator",
+      "status": "Active",
+      "password_hash": "pbkdf2_sha256$310000$FndaKWVCExSN8uo3FRWrQg==$BGsEWeKsDj9EvtvpM1EpRZYJjdV764yYE4XsSg9/QwA=",
+      "last_login": "2026-08-07T19:45:26"
+    },
+    "manager": {
+      "username": "manager",
+      "email": "manager@facilityops.com",
+      "full_name": "Facility Manager",
+      "role": "Facility Manager",
+      "status": "Active",
+      "password_hash": "pbkdf2_sha256$310000$9Ykka4lrQ3/wKCNRha8JFA==$zaKkGvc3brEfI6E3IJ1Eo2LydqeloIneYgLX/+ZentM=",
+      "last_login": ""
+    }
+  }
+}

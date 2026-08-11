@@ -1,0 +1,11 @@
+Integration_Name,Description,Status,Last_Sync
+Building Management System,"Centralized control of HVAC, lighting and access systems.",Connected,2026-07-24
+IoT Sensor Gateway,Ingests live telemetry from facility IoT sensors.,Disconnected,
+Energy Meter API,Pulls interval energy consumption data from smart meters.,Connected,2026-07-25
+Email Notifications,Sends alert and report emails to configured recipients.,Connected,2026-07-20
+SMS Notifications,Sends critical alerts via SMS gateway.,Connected,2026-07-28
+Microsoft Teams,Posts alerts and daily summaries to a Teams channel.,Connected,2026-07-19
+ERP System,Synchronizes work orders and cost data with the ERP.,Connected,2026-07-21
+Weather Service,Provides weather data used for energy forecasting.,Connected,2026-07-26
+Cloud Storage,Backs up reports and exports to cloud storage.,Connected,2026-07-26
+REST API,General purpose REST endpoint for third-party access.,Connected,2026-07-22
