@@ -1,0 +1,19 @@
+Record_ID,Asset_ID,Facility,Maintenance_Type,Date,Technician,Duration_Hours,Cost_INR,Notes
+MH-0001,AST-0009,Riverside Campus,Emergency,2026-02-06,Sara Ali,1.3,6228.64,Scheduled service completed within expected parameters.
+MH-0002,AST-0020,Riverside Campus,Inspection,2026-07-22,Priya Nair,5.4,16067.4,Scheduled service completed within expected parameters.
+MH-0003,AST-0023,North Distribution Center,Emergency,2026-04-01,Anita Sharma,1.5,23683.41,Scheduled service completed within expected parameters.
+MH-0004,AST-0016,Corporate HQ - Tower A,Preventive,2026-05-12,Priya Nair,7.2,3823.77,Scheduled service completed within expected parameters.
+MH-0005,AST-0012,Riverside Campus,Emergency,2026-04-03,John Mathews,7.1,16545.59,Scheduled service completed within expected parameters.
+MH-0006,AST-0020,North Distribution Center,Inspection,2026-03-25,Ravi Kumar,5.7,5823.11,Scheduled service completed within expected parameters.
+MH-0007,AST-0008,North Distribution Center,Preventive,2026-04-06,Sara Ali,4.6,24457.14,Scheduled service completed within expected parameters.
+MH-0008,AST-0002,North Distribution Center,Inspection,2026-04-28,Priya Nair,7.8,23750.76,Scheduled service completed within expected parameters.
+MH-0009,AST-0003,Riverside Campus,Corrective,2026-04-03,Ravi Kumar,0.9,8670.97,Scheduled service completed within expected parameters.
+MH-0010,AST-0019,Corporate HQ - Tower A,Preventive,2026-06-26,Priya Nair,4.9,20419.8,Scheduled service completed within expected parameters.
+MH-0011,AST-0011,Corporate HQ - Tower A,Preventive,2026-05-30,David Chen,6.9,4044.86,Scheduled service completed within expected parameters.
+MH-0012,AST-0018,North Distribution Center,Corrective,2026-06-25,Anita Sharma,5.5,1131.61,Scheduled service completed within expected parameters.
+MH-0013,AST-0012,Corporate HQ - Tower A,Inspection,2026-07-25,Ravi Kumar,1.8,1783.78,Scheduled service completed within expected parameters.
+MH-0014,AST-0017,Corporate HQ - Tower A,Preventive,2026-04-12,Fatima Khan,3.9,9369.95,Scheduled service completed within expected parameters.
+MH-0015,AST-0004,North Distribution Center,Corrective,2026-02-27,Ravi Kumar,6.0,22764.42,Scheduled service completed within expected parameters.
+MH-0016,AST-0017,North Distribution Center,Emergency,2026-02-10,Ravi Kumar,1.0,12235.06,Scheduled service completed within expected parameters.
+MH-0017,AST-0014,Riverside Campus,Preventive,2026-04-17,Fatima Khan,5.8,11367.28,Scheduled service completed within expected parameters.
+MH-0018,AST-0011,Riverside Campus,Corrective,2026-07-08,Anita Sharma,1.4,15795.78,Scheduled service completed within expected parameters.

@@ -1,0 +1,25 @@
+Asset_ID,Asset_Name,Asset_Type,Facility,Location,Manufacturer,Model,Serial_Number,Installation_Date,Last_Maintenance_Date,Next_Maintenance_Date,Health_Score,Operating_Status,Energy_Consumption_kWh,Responsible_Person
+AST-0001,Generator #1,Generator,Corporate HQ - Tower A,Floor 12 - Zone A,Daikin,MDL-2424,SN719176,2022-06-11,2026-07-14,2026-07-22,85,Operational,192.8,Ravi Kumar
+AST-0002,HVAC Chiller #2,Access Control Panel,Corporate HQ - Tower A,Floor 12 - Zone D,Honeywell,MDL-8359,SN717889,2025-07-03,2026-07-01,2026-08-17,75,Operational,128.8,Ravi Kumar
+AST-0003,Boiler #3,Fire Pump,Corporate HQ - Tower A,Floor 4 - Zone C,Trane,MDL-2519,SN498382,2021-10-09,2026-04-16,2026-08-08,88,Operational,48.0,Sara Ali
+AST-0004,Access Control Panel #4,Air Handling Unit,North Distribution Center,Floor 2 - Zone C,Bosch,MDL-6925,SN705397,2022-08-23,2026-06-25,2026-07-24,100,Operational,90.6,Anita Sharma
+AST-0005,Air Handling Unit #5,Lighting Panel,Corporate HQ - Tower A,Floor 2 - Zone D,Johnson Controls,MDL-8428,SN766563,2025-10-09,2026-05-05,2026-08-17,74,Operational,376.2,John Mathews
+AST-0006,Escalator #6,Compressor,Riverside Campus,Floor 11 - Zone A,Bosch,MDL-3803,SN660086,2023-12-14,2026-06-13,2026-08-14,74,Operational,329.5,John Mathews
+AST-0007,Water Pump #7,Escalator,Riverside Campus,Floor 4 - Zone C,Carrier,MDL-4752,SN961722,2023-06-09,2026-06-10,2026-08-22,100,Offline,19.3,Sara Ali
+AST-0008,UPS System #8,Compressor,Riverside Campus,Floor 6 - Zone B,Otis,MDL-7482,SN774079,2023-10-12,2026-06-24,2026-07-27,90,Operational,209.2,David Chen
+AST-0009,Fire Pump #9,Escalator,Riverside Campus,Floor 7 - Zone D,Schneider Electric,MDL-4593,SN245051,2025-03-31,2026-06-27,2026-10-22,70,Operational,231.7,Anita Sharma
+AST-0010,Elevator #10,Cooling Tower,Riverside Campus,Floor 7 - Zone A,ABB,MDL-7252,SN724834,2021-10-16,2026-07-22,2026-08-02,86,Operational,448.3,David Chen
+AST-0011,Air Handling Unit #11,Water Pump,Riverside Campus,Floor 5 - Zone C,Trane,MDL-5808,SN555884,2020-08-01,2026-05-19,2026-07-20,70,Operational,75.4,Ravi Kumar
+AST-0012,Access Control Panel #12,Cooling Tower,Corporate HQ - Tower A,Floor 9 - Zone A,Johnson Controls,MDL-9317,SN738551,2020-09-05,2026-04-27,2026-10-19,70,Operational,93.5,Sara Ali
+AST-0013,Compressor #13,Access Control Panel,Corporate HQ - Tower A,Floor 10 - Zone C,Otis,MDL-1319,SN217301,2021-10-02,2026-07-08,2026-09-26,81,Offline,418.4,David Chen
+AST-0014,Compressor #14,UPS System,Corporate HQ - Tower A,Floor 2 - Zone D,Trane,MDL-9727,SN903035,2024-09-07,2026-07-21,2026-08-18,47,Warning,61.0,Fatima Khan
+AST-0015,Fire Pump #15,Access Control Panel,Riverside Campus,Floor 7 - Zone B,Daikin,MDL-4295,SN847581,2020-09-19,2026-05-19,2026-08-09,50,Warning,143.7,Sara Ali
+AST-0016,Generator #16,Generator,Corporate HQ - Tower A,Floor 6 - Zone A,Bosch,MDL-4770,SN717024,2023-07-28,2026-04-04,2026-09-23,69,Operational,103.0,Anita Sharma
+AST-0017,Compressor #17,HVAC Chiller,North Distribution Center,Floor 2 - Zone B,Johnson Controls,MDL-8953,SN324643,2022-01-22,2026-05-09,2026-07-26,61,Maintenance,245.0,Fatima Khan
+AST-0018,Generator #18,Air Handling Unit,Corporate HQ - Tower A,Floor 11 - Zone D,Schneider Electric,MDL-7939,SN531071,2024-08-31,2026-04-19,2026-09-17,83,Operational,212.8,Ravi Kumar
+AST-0019,Transformer #19,Escalator,North Distribution Center,Floor 2 - Zone B,Honeywell,MDL-4116,SN662336,2022-04-02,2026-05-06,2026-10-09,63,Maintenance,204.6,Michael Rodriguez
+AST-0020,Compressor #20,Air Handling Unit,North Distribution Center,Floor 9 - Zone A,Carrier,MDL-9856,SN976638,2024-12-31,2026-06-23,2026-09-16,55,Maintenance,11.6,Anita Sharma
+AST-0021,CCTV Camera #21,CCTV Camera,Corporate HQ - Tower A,Floor 7 - Zone A,Siemens,MDL-7209,SN102260,2020-10-31,2026-04-23,2026-08-18,100,Operational,443.5,David Chen
+AST-0022,Transformer #22,Escalator,Riverside Campus,Floor 9 - Zone D,Siemens,MDL-4111,SN411120,2020-10-31,2026-04-19,2026-10-27,74,Operational,101.9,Ravi Kumar
+AST-0023,Boiler #23,HVAC Chiller,Corporate HQ - Tower A,Floor 10 - Zone D,Daikin,MDL-9701,SN265080,2022-10-12,2026-04-25,2026-09-26,79,Operational,30.3,Anita Sharma
+AST-0024,Generator #24,Transformer,Corporate HQ - Tower A,Floor 10 - Zone B,Bosch,MDL-1651,SN749468,2021-04-03,2026-07-05,2026-07-27,55,Operational,41.5,Sara Ali

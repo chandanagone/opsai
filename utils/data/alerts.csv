@@ -1,0 +1,21 @@
+Alert_ID,Alert_Title,Description,Category,Severity,Facility,Asset_ID,Created_Time,Status,Assigned_Person,Resolved_Time
+ALT-0001,Badge reader offline,Automated monitoring flagged a security condition requiring review.,Security,Warning,Corporate HQ - Tower A,AST-0016,2026-07-28 17:00,Reopened,Anita Sharma,
+ALT-0002,Unusual overnight energy draw,Automated monitoring flagged a energy condition requiring review.,Energy,Warning,Corporate HQ - Tower A,AST-0009,2026-07-17 11:00,Acknowledged,Fatima Khan,
+ALT-0003,Unusual overnight energy draw,Automated monitoring flagged a energy condition requiring review.,Energy,Information,Riverside Campus,AST-0005,2026-07-12 04:00,New,,
+ALT-0004,Unexpected equipment vibration,Automated monitoring flagged a maintenance condition requiring review.,Maintenance,Information,Corporate HQ - Tower A,,2026-07-12 09:00,Assigned,Michael Rodriguez,
+ALT-0005,Serial number mismatch on scan,Automated monitoring flagged a asset condition requiring review.,Asset,Warning,North Distribution Center,AST-0019,2026-07-16 23:00,Resolved,Michael Rodriguez,2026-07-17 14:00
+ALT-0006,Badge reader offline,Automated monitoring flagged a security condition requiring review.,Security,Critical,Corporate HQ - Tower A,AST-0007,2026-07-17 13:00,Assigned,Priya Nair,
+ALT-0007,Unauthorized access attempt,Automated monitoring flagged a security condition requiring review.,Security,Information,Corporate HQ - Tower A,,2026-07-15 14:00,New,,
+ALT-0008,Zone left unoccupied unusually long,Automated monitoring flagged a occupancy condition requiring review.,Occupancy,Information,North Distribution Center,AST-0023,2026-07-20 02:00,Resolved,Fatima Khan,2026-07-21 09:00
+ALT-0009,Unusual overnight energy draw,Automated monitoring flagged a energy condition requiring review.,Energy,High,Riverside Campus,AST-0007,2026-07-15 01:00,New,,
+ALT-0010,Meeting room conflict detected,Automated monitoring flagged a occupancy condition requiring review.,Occupancy,Information,North Distribution Center,AST-0003,2026-07-27 06:00,Assigned,Ravi Kumar,
+ALT-0011,Filter replacement due,Automated monitoring flagged a maintenance condition requiring review.,Maintenance,High,North Distribution Center,AST-0015,2026-07-12 19:00,Acknowledged,David Chen,
+ALT-0012,Backup job failed,Automated monitoring flagged a system condition requiring review.,System,Warning,Corporate HQ - Tower A,AST-0014,2026-07-21 02:00,Resolved,Sara Ali,2026-07-22 11:00
+ALT-0013,Asset health score dropped sharply,Automated monitoring flagged a asset condition requiring review.,Asset,Critical,Riverside Campus,AST-0001,2026-07-24 08:00,New,,
+ALT-0014,Sensor connectivity lost,Automated monitoring flagged a system condition requiring review.,System,High,Corporate HQ - Tower A,AST-0021,2026-07-12 04:00,Acknowledged,Fatima Khan,
+ALT-0015,Perimeter sensor triggered,Automated monitoring flagged a security condition requiring review.,Security,High,North Distribution Center,AST-0016,2026-07-25 20:00,Reopened,Sara Ali,
+ALT-0016,Occupancy exceeds safe capacity,Automated monitoring flagged a occupancy condition requiring review.,Occupancy,Critical,North Distribution Center,AST-0016,2026-07-22 14:00,Acknowledged,David Chen,
+ALT-0017,Sensor connectivity lost,Automated monitoring flagged a system condition requiring review.,System,Warning,North Distribution Center,AST-0004,2026-07-21 03:00,Resolved,Michael Rodriguez,2026-07-22 15:00
+ALT-0018,Serial number mismatch on scan,Automated monitoring flagged a asset condition requiring review.,Asset,Critical,North Distribution Center,AST-0007,2026-07-12 02:00,Reopened,Sara Ali,
+ALT-0019,Asset offline unexpectedly,Automated monitoring flagged a asset condition requiring review.,Asset,High,Corporate HQ - Tower A,AST-0005,2026-07-13 13:00,Assigned,David Chen,
+ALT-0020,Occupancy exceeds safe capacity,Automated monitoring flagged a occupancy condition requiring review.,Occupancy,Critical,Riverside Campus,AST-0023,2026-07-10 22:00,Resolved,John Mathews,2026-07-11 06:00
